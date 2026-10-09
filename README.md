@@ -74,7 +74,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/social-media-backend.git
+git clone https://github.com/ajinkya029/social-media-backend.git
 cd social-media-backend
 ```
 
